@@ -7,33 +7,33 @@
       "image": "assets/images/apple-macbook-pro-13-m1-8gb-256gb-ssd-Ноутбук.jpg",
       "configure" : {
         "chip": "M1",
-        "SSD": "256 GB",
+        "ssd": "256 GB",
         "memory": "8 GB",
         "display": "Retina"
       }
     },
 
     {
-      "id;": 1,
+      "id;": 2,
       "tittle": "MacBook Pro",
       "price": 1300,
       "image": "assets/images/apple-macbook-pro-13-m1-8gb-256gb-ssd-Ноутбук.jpg",
       "configure" : {
         "chip": "M1",
-        "SSD": "256 GB",
+        "ssd": "256 GB",
         "memory": "16 GB",
         "display": "Retina"
       }
     },
 
     {
-      "id;": 1,
+      "id;": 3,
       "tittle": "MacBook Pro Intel",
       "price": 1000,
       "image": "assets/images/apple-macbook-pro-13-m1-8gb-256gb-ssd-Ноутбук.jpg",
       "configure" : {
         "chip": "Intel",
-        "SSD": "256 GB",
+        "ssd": "256 GB",
         "memory": "16 GB",
         "display": "Retina"
       }
