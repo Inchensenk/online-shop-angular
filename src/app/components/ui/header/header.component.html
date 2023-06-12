@@ -2,9 +2,19 @@
 
 
   <mat-toolbar-row>
-    <span>Third Line</span>
+
+    <div class="toolbar no-select" routerLink="">
+      <mat-icon style="margin-right: 5px;">home</mat-icon>
+      <span>Online Shop</span>
+    </div>
+
     <span class="example-spacer"></span>
-    <mat-icon >info</mat-icon>
-    <mat-icon >delete</mat-icon>
+
+    <div class="toolbar no-select">
+      <button mat-flat-button class="toolbar button" routerLink="">Главная</button>
+      <button mat-flat-button class="toolbar button" routerLink="products">Товары</button>
+      <button mat-flat-button class="toolbar button" routerLink="basket">Корзина</button>
+    </div>
+
   </mat-toolbar-row>
 </mat-toolbar>
