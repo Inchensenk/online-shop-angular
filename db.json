@@ -2,8 +2,9 @@
   "products": [
     {
       "id;": 1,
-      "tittle": "MacBook Air",
+      "title": "MacBook Air",
       "price": 900,
+      "year": 2021,
       "image": "assets/images/apple-macbook-pro-13-m1-8gb-256gb-ssd-Ноутбук.jpg",
       "configure" : {
         "chip": "M1",
@@ -15,8 +16,9 @@
 
     {
       "id;": 2,
-      "tittle": "MacBook Pro",
+      "title": "MacBook Pro",
       "price": 1300,
+      "year": 2020,
       "image": "assets/images/apple-macbook-pro-13-m1-8gb-256gb-ssd-Ноутбук.jpg",
       "configure" : {
         "chip": "M1",
@@ -28,8 +30,9 @@
 
     {
       "id;": 3,
-      "tittle": "MacBook Pro Intel",
+      "title": "MacBook Pro Intel",
       "price": 1000,
+      "year": 2019,
       "image": "assets/images/apple-macbook-pro-13-m1-8gb-256gb-ssd-Ноутбук.jpg",
       "configure" : {
         "chip": "Intel",
